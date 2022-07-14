@@ -7,6 +7,7 @@
 - [ ] [velero](https://github.com/vmware-tanzu/velero)
 - [ ] [cert-manager](https://github.com/cert-manager/cert-manager)
 - [ ] [tektoncd](https://github.com/tektoncd/operator)
+- [ ] [kubevela](https://github.com/kubevela/kubevela)
 - [ ] Add new one
 
 ### 部署类型
